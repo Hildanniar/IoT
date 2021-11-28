@@ -16,9 +16,9 @@
 
 #if STATIC
 // ethernet interface ip address
-static byte myip[] = { 192,168,0,200 };
+static byte myip[] = { 192,168,43,106 };
 // gateway ip address
-static byte gwip[] = { 192,168,0,111 };
+static byte gwip[] = { 192,168,43,105 };
 #endif
 
 // ethernet mac address - must be unique on your network
